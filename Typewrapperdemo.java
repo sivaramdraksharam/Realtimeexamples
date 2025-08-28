@@ -38,7 +38,8 @@ public class Typewrapperdemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Classroom cr=new Classroom();
-		
+
+		//create references for TypWrapper Integer class
 		Integer boards,chairs,tables;
 		//auto boxing - converting values to objects
 		boards=1;
